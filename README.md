@@ -11,6 +11,7 @@ Copy config example and edit it to suit your needs.
 
 ```
 cp config/config.yml.example config/config.yml
+bundle
 ```
 Add your locomotive CMS Email, host and API Key. 
 
