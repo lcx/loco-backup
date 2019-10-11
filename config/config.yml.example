@@ -2,3 +2,4 @@ site:
   host: 'https://cms.example.com/'
   email: 'foo@example.com'
   api_key: 'b6e9692af0a76cdf7e9ca9bc2866a087'
+  retention_days: 180
